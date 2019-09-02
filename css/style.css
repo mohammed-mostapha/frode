@@ -174,7 +174,6 @@
       width: 100%;
       max-width: 100% !important;
       height: 100%;
-      border: 2px solid red;
     }
 
     #gallery .container div {
@@ -188,7 +187,7 @@
 
     /* end Gallery*/
 
-    
+
     #services, #reviews {
       height: 100vh;
     }
