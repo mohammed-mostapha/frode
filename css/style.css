@@ -187,3 +187,8 @@
     }
 
     /* end Gallery*/
+
+    
+    #services, #reviews {
+      height: 100vh;
+    }
